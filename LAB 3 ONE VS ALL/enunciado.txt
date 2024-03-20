@@ -1,1 +1,14 @@
+LABORATORIO 03 (GRUPO 1 y GRUPO 2)
+UNIV. VILLCA JAITA LINO FERNANDO
+DATASET: Credit score classification
+URL DATASET: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
+A partir de los cuadernillos revisados en clase, buscar un dataset, que contenga al menos 11 propiedades (n>10) y por lo menos 20000 ejemplos (m>=20000), para entrenar el modelo de regresión logística (clasificación multiclase) con este dataset, y realizar las respectivas predicciones que demuestren la efectividad del mismo. Se debe subir los cuadernillos modificados, el dataset y todo aquello que considere necesario para completar con el ejercicio. Cada estudiante debe elegir un dataset diferente, para coordinar esto, se debe registrar el dataset elegido con el estudiante elegido en cada grupo de laboratorio (Javier Ignacio Gamarra Mita-> Grupo 1), (Lisbeth Fernandez Muruchi -> Grupo 2).
+
+Se debe aplicar Pandas para el preprocesamiento del dataset elegido.
+
+Para la validacion del modelo se debe utilizar el 80% de los datos para entrenar y el 20% para probar (Lo datos que se elijan para prueba no deben ser tomados en cuenta en el entrenamiento).
+
+Para la determinacion de los parametros theta se debe considerar aplicar un modelo de regresion logistica (clasificación), donde es importante incluir el respectivo grafico de costo para cada caso, el modelo, su entrenamiento y validacion debe estar en un solo cuadernillo, en los cuadros de texto se debe incluir la explicacion respectiva, eliminando todo el texto que se encuentra en los cuadernillos revisados en clase.
+
+Se debe subir al repositorio github el cuadernillo e incluir la direccion del repositorio y el cuadernillo en ecampus, ademas de una explicación suficiente del trabajo realizado.
