@@ -1,1 +1,9 @@
+1. Busque su nombre en el archivo excel adjunto y aplique de acuerdo al dataset asiganado una tecnica de aprendizaje no supervisado, para lograr generar los labelsque se tenga en el dataset respectivo, se debe aplicar y explicar obligatoriamente los pasos empleados dentro del cuadernillo que se genere.
 
+Los dos primeros numeros que se encuentran en la columna D1 y D2 son a las que debe aplicar el modelo, sin embargo si cualquiera de numeros de dataset asignados, corresponde a un dataset que usted utilizo y registro en los respectivos laboratorios, debe utilizar el D3, D4, D5 o D6 respectivamente.
+
+Las respuestas deben ser defendidas en el horario establecido para el examen, las cuales deben ser realizadas en un cuadernillo en google collab, donde se debe considerar solamente incluir el texto que corresponda a la explicacion que propone como respuesta.
+
+2. Desarrolle un cuadernillo aplicando aprendizaje por refuerzo, para que un agente pueda jugar cuatro en raya.
+
+Se debe subir todo a ecampus ademas de utilizar github para lograr un versionamiento del trabajo.
