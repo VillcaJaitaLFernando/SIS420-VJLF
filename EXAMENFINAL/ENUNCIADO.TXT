@@ -1,1 +1,12 @@
+Desarrolle el codigo fuente para lo siguiente:
 
+1.- (70 pts) A partir del dataset que se le asigno, desarrollar un modelo de aprendizaje no supervisado con las tecnicas que usted vea conveniente para identificar el numero de clases que corresponde a la clasificacion de las imagenes almacenadas en el dataset asignado, luego debe aplicar un modelo de machine learning para lograr que se pueda identificar el tipo de figura que corresponde a una nueva imagen que se le presente al modelo entrenado.
+
+2. (30 pts) Construya un modelo de aprendizaje por refuerzo para resolver un rompecabezas de 4 filas por 5 columnas, de deja a su criterio la utilizacion de librerias o frameworks que desee.
+
+DE CUMPLIMIENTO OBLIGATORIO.
+
+Se debe utilizar solamente métodos, técnicas, herramientas, tecnologias entre otras vistas en clase.
+Se debe realizar una explicacion suficientemente detallada de la resolucion de cada problema.
+Se debe adjuntar el cuadernillo y la dirección del repositorio en github
+Se debe subir la resolucion y la explicacion a ecampus para habilitarse a la defensa.
